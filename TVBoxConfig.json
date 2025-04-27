@@ -1,0 +1,175 @@
+{
+  "sites": [
+    {
+      "key": "apple",
+      "name": "小苹果主力源",
+      "type": 3,
+      "api": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fantaiying",
+      "name": "饭太硬影视源",
+      "type": 3,
+      "api": "http://饭太硬.top/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mao",
+      "name": "猫友源",
+      "type": 3,
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "nanfeng",
+      "name": "南风",
+      "type": 3,
+      "api": "https://nfmovies.github.io/nfsource.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "duoduo",
+      "name": "多多源",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/TVBox/-/raw/main/TVBox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fantaiyingshi",
+      "name": "饭太硬影视",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fantaiying/raw/branch/main/TVBox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xingchen",
+      "name": "星辰源",
+      "type": 3,
+      "api": "https://download.kstore.space/download/1658191047/1/XC.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "junyu",
+      "name": "俊于源",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/TVBox/-/raw/main/duomv.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "乱世",
+      "name": "乱世源",
+      "type": 3,
+      "api": "https://agit.ai/66666/mao/raw/branch/main/mao.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qqqun",
+      "name": "QQ群直播源",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/q215613905/TVBox/main/live/live.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaomi",
+      "name": "小米源",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/tv/live.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "alizhuli",
+      "name": "阿里主力源",
+      "type": 3,
+      "api": "https://pan.lihaoyu.cn/api/v3/file/get/preview/ali.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "albeiyong",
+      "name": "阿里备用源",
+      "type": 3,
+      "api": "https://ali.饭太硬.top/TVBox/ali.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aliheji",
+      "name": "阿里合集",
+      "type": 3,
+      "api": "https://agit.ai/hu/hcr/raw/branch/main/alitvbox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "duoduo",
+      "name": "多多源",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/TVBox/-/raw/main/TVBox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fantaiyingshi",
+      "name": "饭太硬影视",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fantaiying/raw/branch/main/TVBox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "alinanfeg",
+      "name": "阿里南风",
+      "type": 3,
+      "api": "	https://nfmovies.github.io/ali.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "alijingxuan",
+      "name": "阿里精选",
+      "type": 3,
+      "api": "https://agit.ai/hu/hcr/raw/branch/main/alitvbox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "乱世",
+      "name": "乱世源",
+      "type": 3,
+      "api": "https://agit.ai/66666/mao/raw/branch/main/mao.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
