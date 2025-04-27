@@ -148,7 +148,7 @@
       "key": "alinanfeg",
       "name": "阿里南风",
       "type": 3,
-      "api": "	https://nfmovies.github.io/ali.json",
+      "api": "https://nfmovies.github.io/ali.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
