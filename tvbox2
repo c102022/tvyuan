@@ -1,0 +1,7 @@
+{
+  "sites": [
+    {"name": "小苹果", "api": "https://freed.yuanhsing.cf/TVBox/meowcf.json"},
+    {"name": "饭太硬", "api": "http://饭太硬.top/tv"},
+    {"name": "猫友", "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"}
+  ]
+}
